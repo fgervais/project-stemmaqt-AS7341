@@ -3,4 +3,5 @@
   (lib (name "SM04B-SRSS-TB(LF)(SN)")(type KiCad)(uri "${KIPRJMOD}/kicad-library/SM04B-SRSS-TB(LF)(SN)")(options "")(descr ""))
   (lib (name S-1318D18-M5T1U4)(type KiCad)(uri ${KIPRJMOD}/kicad-library/S-1318D18-M5T1U4)(options "")(descr ""))
   (lib (name AS7341-DLGT)(type KiCad)(uri ${KIPRJMOD}/kicad-library/AS7341-DLGT)(options "")(descr ""))
+  (lib (name TPS7A0233PDBVR)(type KiCad)(uri ${KIPRJMOD}/kicad-library/TPS7A0233PDBVR)(options "")(descr ""))
 )

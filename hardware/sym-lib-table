@@ -3,4 +3,5 @@
   (lib (name SM04B-SRSS-TB_LF__SN_)(type Legacy)(uri "${KIPRJMOD}/kicad-library/SM04B-SRSS-TB(LF)(SN)/SM04B-SRSS-TB_LF__SN_.lib")(options "")(descr ""))
   (lib (name S-1318D18-M5T1U4)(type Legacy)(uri ${KIPRJMOD}/kicad-library/S-1318D18-M5T1U4/S-1318D18-M5T1U4.lib)(options "")(descr ""))
   (lib (name AS7341-DLGT)(type Legacy)(uri ${KIPRJMOD}/kicad-library/AS7341-DLGT/AS7341-DLGT.lib)(options "")(descr ""))
+  (lib (name TPS7A0233PDBVR)(type Legacy)(uri ${KIPRJMOD}/kicad-library/TPS7A0233PDBVR/TPS7A0233PDBVR.lib)(options "")(descr ""))
 )
