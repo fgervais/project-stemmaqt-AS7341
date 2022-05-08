@@ -1,9 +1,7 @@
 # AS7341 Stemma QT Board
 
-<!-- ![Overview](assets/img/) -->
+![Overview](assets/img/IMG_0910.jpg)
 
 ## OSHPark
 
-<!--
-<a href="https://oshpark.com/shared_projects/6VDPQxtW" target="_blank">https://oshpark.com/shared_projects/6VDPQxtW</a>
--->
+<a href="https://oshpark.com/shared_projects/QLaodyIa" target="_blank">https://oshpark.com/shared_projects/QLaodyIa</a>
